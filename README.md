@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**hashtagsam/hashtagsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Welcome to My GitHub Profile!
 
 Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I am a Solutions Architect, DevOps specialist, and Machine Learning enthusiast passionate about developing and deploying innovative solutions.
