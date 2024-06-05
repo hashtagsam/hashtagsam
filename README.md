@@ -56,7 +56,7 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 - Masters in Business Administration (3.75/4.0) - Univ. of the People, USA
 - BSc. Electrical & Electronics Engineering - Madonna University, Nigeria
 
-- **Certifications:**
+**Certifications:**
 > AWS Certified Solutions Architect (In view - June 2024)
 
 
