@@ -2,11 +2,11 @@
 
 # Welcome to My GitHub Profile!
 
-Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I am a Solutions Architect, DevOps specialist, and Machine Learning enthusiast passionate about developing and deploying innovative solutions.
+Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I am a solutions architect, a DevOps specialist, and a machine learning enthusiast who is passionate about developing and deploying innovative solutions to the cloud.
 
 ## About Me
 
-- **![Hard Skills](https://img.icons8.com/emoji/48/000000/mechanical-arm.png)**: 
+- **Hard Skills**: 
   - Python
   - Bash Scripting,
   - Jenkins
