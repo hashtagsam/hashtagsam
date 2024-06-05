@@ -6,8 +6,18 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 
 ## About Me
 
-- 🌱 **Hard Skills**: 
-  - Python, Bash Scripting, Jenkins, Ansible, Terraform, Kubernetes, Helm, Docker, AWS Cloud, Terraform, etc
+- **![Hard Skills](https://img.icons8.com/emoji/48/000000/mechanical-arm.png)**: 
+  - Python
+  - Bash Scripting,
+  - Jenkins
+  - Ansible
+  - Terraform
+  - Kubernetes
+  - Helm
+  - Docker
+  - AWS Cloud
+  - Terraform, etc
+    
 - 🌱 **Currently Learning**: 
   - Postman, DevSecOps, RedHat, OpenShift,
   - I'm constantly expanding my knowledge in cloud technologies and machine learning frameworks.
@@ -49,8 +59,4 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 - **Certifications:**
 > AWS Certified Solutions Architect (In view - June 2024)
 
-<--!
-## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/samson-egbuchulam)
-- [Email](samson.egbuchulam@gmail.com)
