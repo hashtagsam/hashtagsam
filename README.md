@@ -51,7 +51,7 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 - **Repository**: Link to be provided for more details.
 
 ## Education
-- **Formal:**
+**Formal:**
 - MSc. Data Science with Artificial Intelligence (Distinction) - Univ. of Exeter, UK.
 - Masters in Business Administration (3.75/4.0) - Univ. of the People, USA
 - BSc. Electrical & Electronics Engineering - Madonna University, Nigeria
