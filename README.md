@@ -48,7 +48,12 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 ### Project 3: Deploying a Web Application Using AWS SaaS and PaaS Services
 - **Description**: Deploying a Java application to the cloud using various AWS services.
 - **Technologies**: AWS Elastic Beanstalk, CloudFront, IAM, Amazon Certificate Manager (ACM), Amazon MQ, Amazon RDS, S3, Route 53, ElastiCache, and third-party service GoDaddy for domain name creation.
-- **Repository**: Link to be provided for more details.
+- **Repository**: [cloud-project-3](https://github.com/hashtagsam/cloud-project-3).
+
+### Project 4: Containerizing an Application Using Docker and Vagrant VMs
+- **Description**: Containerizing a Java application using Docker compose.
+- **Technologies**: Docker, Vagrant, MySQL, RabbitMQ, Memcached, Nginx.
+- **Repository**: [cloud-project-3](https://github.com/hashtagsam/cloud-project-3).
 
 ## Education
 **Formal:**
