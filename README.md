@@ -51,9 +51,9 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 - **Repository**: [cloud-project-3](https://github.com/hashtagsam/cloud-project-3).
 
 ### Project 4: Containerizing an Application Using Docker and Vagrant VMs
-- **Description**: Containerizing a Java application using Docker compose.
+- **Description**: Containerizing a Java application using Docker Compose.
 - **Technologies**: Docker, Vagrant, MySQL, RabbitMQ, Memcached, Nginx.
-- **Repository**: [cloud-project-3](https://github.com/hashtagsam/cloud-project-3).
+- **Repository**: [vprofile-project](https://github.com/hashtagsam/vprofile-project/tree/containers).
 
 ## Education
 **Formal:**
