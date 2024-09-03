@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile!
 
-Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I am a solutions architect, a DevOps specialist, and a machine learning enthusiast who is passionate about developing and deploying innovative solutions to the cloud.
+Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I am a solutions architect, and a DevOps specialist. Machine learning is also an area in which I am very passionate and have dobtained an MSc. in Data Science. I work with teams in developing modern applications and deploying them to the cloud.
 
 ## About Me
 
@@ -62,6 +62,6 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 - BSc. Electrical & Electronics Engineering - Madonna University, Nigeria
 
 **Certifications:**
-> AWS Certified Solutions Architect (June 2024)
+> [AWS Certified Solutions Architect](https://www.credly.com/badges/bb493e24-af13-4d6b-ab53-0fef42fb1552/linked_in_profile) (June 2024)
 
 
