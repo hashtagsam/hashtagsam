@@ -16,6 +16,7 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
   - Helm
   - Docker
   - AWS Cloud
+  - GCP
   - Terraform, etc
     
 - 🌱 **Currently Learning**: 
@@ -55,6 +56,9 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 - **Technologies**: Docker, Vagrant, MySQL, RabbitMQ, Memcached, Nginx.
 - **Repository**: [vprofile-project](https://github.com/hashtagsam/vprofile-project/tree/containers).
 
+### Project 5: Cost Optimization using Karpenter
+- **Repository**: [cost-opt-karpenter](https://github.com/hashtagsam/cost-optimization-with-karpenter)
+
 ## Education
 **Formal:**
 - MSc. Data Science with Artificial Intelligence (Distinction) - Univ. of Exeter, UK.
@@ -63,5 +67,6 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 
 **Certifications:**
 > [AWS Certified Solutions Architect](https://www.credly.com/badges/bb493e24-af13-4d6b-ab53-0fef42fb1552/linked_in_profile) (June 2024)
+> GCP
 
 
