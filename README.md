@@ -35,11 +35,11 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 - ⚡ **Fun Fact**: 
   - I am a recording gospel artist.
 
-## Key Projects
-### Project 1: Web App Deployment Using PaaS
-- **Description**: A simple web application using API to integrate Lambda with DynamoDB.
-- **Technologies**: AWS Amplify, DynamoDB, Lambda, IAM, API Gateway
-- **Repository**: [cloud-project-1](https://github.com/hashtagsam/cloud-project-1)
+## Sample Projects
+### Project 1: Cost Optimization using Karpenter
+- **Description**: Built a Spot-first, auto-scaling AWS EKS cluster that cut compute cost by 60–75% compared with a static node group, using Terraform, approval-gated keyless CI/CD and policy guardrails.
+- **Technologies**: AWS (EKS, VPC, IAM, KMS, S3), Terraform, Karpenter, Kyverno, Helm, Prometheus, Grafana, OpenCost, GitHub Actions (OIDC), Bottlerocket
+- **Repository**: [cost-opt-karpenter](https://github.com/hashtagsam/cost-optimization-with-karpenter)
 
 ### Project 2: Wildrydes
 - **Description**: An Uber-like app that allows riders to request unicorns instead of regular taxis.
@@ -55,9 +55,11 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 - **Description**: Containerizing a Java application using Docker Compose.
 - **Technologies**: Docker, Vagrant, MySQL, RabbitMQ, Memcached, Nginx.
 - **Repository**: [vprofile-project](https://github.com/hashtagsam/vprofile-project/tree/containers).
-
-### Project 5: Cost Optimization using Karpenter
-- **Repository**: [cost-opt-karpenter](https://github.com/hashtagsam/cost-optimization-with-karpenter)
+  
+### Project 1: Web App Deployment Using PaaS
+- **Description**: A simple web application using API to integrate Lambda with DynamoDB.
+- **Technologies**: AWS Amplify, DynamoDB, Lambda, IAM, API Gateway
+- **Repository**: [cloud-project-1](https://github.com/hashtagsam/cloud-project-1)
 
 ## Education
 **Formal:**
