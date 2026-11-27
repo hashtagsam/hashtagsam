@@ -40,7 +40,7 @@ Hi there! I'm Samson Ugochukwu Egbuchulam, also known as hashtagsam on GitHub. I
 - **Description**: Built a Spot-first, auto-scaling AWS EKS cluster that cut compute cost by 50–75% compared with a static node group, using Terraform, approval-gated keyless CI/CD and policy guardrails.
 - **Technologies**: AWS (EKS, VPC, IAM, KMS, S3), Terraform, Karpenter, Kyverno, Helm, Prometheus, Grafana, OpenCost, GitHub Actions (OIDC), Bottlerocket
 - **Repository**: [cost-opt-karpenter](https://github.com/hashtagsam/cost-optimization-with-karpenter)
-- **Project writeup**: 
+- **Project writeup**: [Full Project Description](https://github.com/hashtagsam/cost-optimization-with-karpenter/blob/8d77f18e4796adce0bfa3073d1b0042533aecfcc/docs/PROJECT-WRITEUP%20(1).md)
 
 ### Project 2: Wildrydes
 - **Description**: An Uber-like app that allows riders to request unicorns instead of regular taxis.
